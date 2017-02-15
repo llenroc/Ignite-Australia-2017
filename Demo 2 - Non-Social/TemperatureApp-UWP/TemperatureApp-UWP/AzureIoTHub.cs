@@ -11,7 +11,7 @@ static class AzureIoTHub
     // Note: this connection string is specific to the device "TemperatureUWP". To configure other devices,
     // see information on iothub-explorer at http://aka.ms/iothubgetstartedVSCS
     //
-    const string deviceConnectionString = "HostName=ignite-demo-hub.azure-devices.net;DeviceId=TemperatureUWP;SharedAccessKey=etge3Xy05gmv3QHdYXO1CD3KlIJo7d2By9nSSpcRUEI=";
+    const string deviceConnectionString = "<Insert Connection String>";
 
     //
     // To monitor messages sent to device "TemperatureUWP" use iothub-explorer as follows:
