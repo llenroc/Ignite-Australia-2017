@@ -1,5 +1,7 @@
-# Ignite-Australia-2017 #
+# From Device to Dashboard - A Developer's Guide to connecting your Devices to Azure IoT Suite, Power BI and Logic Apps [CLD331] #
+These are some of the resources that would help you get started with Azure IoT Suite based off my session at Microsoft Australia Ignite 2017 Gold Coast!
 
+*This session will be a deep dive into the Azure IoT Suite of services. We explore and compare real-time, batch and aggregated data ingestion. We will do a hot analysis by processing the information in real-time using Azure Stream Analytics. We will extensively use Power BI to deliver these insights on a live dashboard, with natural language queries. We’ll also look into other integration options for an alerting engine, based on some data validation to trigger alerts & notifications when specific conditions are met, by using Logic Apps. This session is designed to be an end-to-end developer deep dive on the entire platform that will help you understand the process of connecting your devices to the Azure IoT platform and deliver insights through Power BI with alerts backed by Logic Apps.*
 
 ## Azure IoT Suite: ##
 * Azure IoT Suite - https://azure.microsoft.com/en-us/suites/iot-suite/
